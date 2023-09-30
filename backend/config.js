@@ -1,0 +1,3 @@
+export const PORT = 3000;
+// export const DB_URI = "mongodb+srv://admin:123password321@book-store-mern.sexfv8s.mongodb.net/books-collection?retryWrites=true&w=majority"
+export const DB_URI = "mongodb://admin:123password321@ac-yzphqbo-shard-00-00.sexfv8s.mongodb.net:27017,ac-yzphqbo-shard-00-01.sexfv8s.mongodb.net:27017,ac-yzphqbo-shard-00-02.sexfv8s.mongodb.net:27017/books-collection?ssl=true&replicaSet=atlas-8ny4wa-shard-0&authSource=admin&retryWrites=true&w=majority"
